@@ -2,4 +2,5 @@
 
 自定义BottomBar
 
+![image](image.gif)
 
