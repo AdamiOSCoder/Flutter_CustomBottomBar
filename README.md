@@ -3,4 +3,4 @@
 自定义BottomBar
 
 ![image](1.gif)
-
+![image](Android.gif)
